@@ -17,7 +17,7 @@ Follow the instructions below to set up and run the project on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shaimaa-Hammad/photo-gallery-backend.git
-   cd photo-gallery-backend
+   git clone https://github.com/Shaimaa-Hammad/photo-gallery-api.git
+   cd photo-gallery-api
    npm install
    cp .env.example .env
